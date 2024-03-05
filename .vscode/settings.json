@@ -65,7 +65,6 @@
       "overflow-y",
       "overflow-scrolling",
       "clip",
-
       //
       "box-sizing",
       "width",
@@ -130,7 +129,6 @@
       "border-top-right-image",
       "border-bottom-right-image",
       "border-bottom-left-image",
-
       //
       "background",
       "background-color",
@@ -158,7 +156,6 @@
       "list-style-position",
       "list-style-type",
       "list-style-image",
-
       //
       "font",
       "font-weight",
@@ -199,7 +196,6 @@
       "tab-size",
       "hyphens",
       "interpolation-mode",
-
       //
       "opacity",
       "visibility",
@@ -208,7 +204,6 @@
       "cursor",
       "pointer-events",
       "user-select",
-
       //
       "unicode-bidi",
       "direction",
@@ -237,7 +232,6 @@
       "orientation",
       "fill",
       "stroke",
-
       //
       "transition",
       "transition-delay",
