@@ -570,13 +570,9 @@ body {
     letter-spacing: 0.04em;
 }
 
-/*.footer-input::placeholder {
+.footer-input::placeholder {
     color: #ffffff;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 2;
-    letter-spacing: 0.04em;
-}*/
+}
 
 .footer-input-btn {
     display: flex;
